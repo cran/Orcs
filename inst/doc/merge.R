@@ -1,7 +1,7 @@
-## ----pkg, echo=FALSE, message=FALSE--------------------------------------
+## ----pkg, echo=FALSE, message=FALSE-------------------------------------------
 library(Orcs)
 
-## ----mergeList, eval=TRUE------------------------------------------------
+## ----mergeList, eval=TRUE-----------------------------------------------------
 ## sample data
 set.seed(10)
 ls_df <- list(data.frame(a = 1:10, b = 1:10),

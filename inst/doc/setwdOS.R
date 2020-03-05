@@ -1,7 +1,7 @@
-## ----pkg, echo=FALSE, message=FALSE--------------------------------------
+## ----pkg, echo=FALSE, message=FALSE-------------------------------------------
 library(Orcs)
 
-## ----setwdOS, eval=FALSE-------------------------------------------------
+## ----setwdOS, eval=FALSE------------------------------------------------------
 #  ## os partition without file path extension
 #  setwdOS()
 #  
